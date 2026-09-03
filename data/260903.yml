@@ -1,0 +1,61 @@
+about:
+  description: GitHub's official MCP Server
+  license: MIT
+  homepage: 
+  head: bd47e63
+  archived: false
+  latestVersion: v1.11.0
+  collectedAt: 2026-09-03T02:25:47Z
+timeline:
+  created: 2025-03-04
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-25
+popularity:
+  star: 32674
+  watcher: 390
+  fork: 4888
+  release: 77
+  contributor: 5196
+  pullRequest: 775
+  issue: 1046
+language:
+  Go: 3672764
+  TypeScript: 149447
+  Shell: 30466
+  HTML: 5621
+  Dockerfile: 2261
+  JavaScript: 400
+totalLine: 3860959
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 4
+    mergedPR: 54
+    openPR: 28
+    closedIssue: 40
+    openIssue: 13
+    commit: 101
+  last90d:
+    since: 2026-06-05
+    release: 11
+    mergedPR: 149
+    openPR: 78
+    closedIssue: 99
+    openIssue: 49
+    commit: 211
+  last180d:
+    since: 2026-03-07
+    release: 22
+    mergedPR: 269
+    openPR: 104
+    closedIssue: 193
+    openIssue: 87
+    commit: 362
+  last360d:
+    since: 2025-09-08
+    release: 56
+    mergedPR: 608
+    openPR: 162
+    closedIssue: 461
+    openIssue: 153
+    commit: 767
