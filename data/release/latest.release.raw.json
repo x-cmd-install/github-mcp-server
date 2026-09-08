@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 824,
       "digest": "sha256:2ef040ceb06dba2c88f05c588c1ca51fc22a07dca75410f2d5e4f007f384155a",
-      "download_count": 762,
+      "download_count": 781,
       "created_at": "2026-09-03T13:59:44Z",
       "updated_at": "2026-09-03T13:59:45Z",
       "browser_download_url": "https://github.com/github/github-mcp-server/releases/download/v1.12.0/github-mcp-server_1.12.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7939148,
       "digest": "sha256:e559f9da66cd639d14f72ca5402d2ad8e258849d30458bbbf3347d5408b02676",
-      "download_count": 2664,
+      "download_count": 2692,
       "created_at": "2026-09-03T13:59:42Z",
       "updated_at": "2026-09-03T13:59:43Z",
       "browser_download_url": "https://github.com/github/github-mcp-server/releases/download/v1.12.0/github-mcp-server_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8446262,
       "digest": "sha256:bd386e398f37011db94f186a7b30ddf1be943fa2d414824d749455e2c83feb42",
-      "download_count": 129,
+      "download_count": 132,
       "created_at": "2026-09-03T13:59:44Z",
       "updated_at": "2026-09-03T13:59:44Z",
       "browser_download_url": "https://github.com/github/github-mcp-server/releases/download/v1.12.0/github-mcp-server_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7570829,
       "digest": "sha256:51f2411e93d981eb7038ca23229aa960006209ce82a4dd80a92d7875a7931a5c",
-      "download_count": 320,
+      "download_count": 322,
       "created_at": "2026-09-03T13:59:43Z",
       "updated_at": "2026-09-03T13:59:44Z",
       "browser_download_url": "https://github.com/github/github-mcp-server/releases/download/v1.12.0/github-mcp-server_Linux_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8265496,
       "digest": "sha256:f34de295acd8f1012c7f2c0e3b909d87361d0993b9489b57ee92ac72b85d7cca",
-      "download_count": 2171,
+      "download_count": 2193,
       "created_at": "2026-09-03T13:59:42Z",
       "updated_at": "2026-09-03T13:59:43Z",
       "browser_download_url": "https://github.com/github/github-mcp-server/releases/download/v1.12.0/github-mcp-server_Linux_x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7653889,
       "digest": "sha256:e3da02b023e9266becb6d517f26e1974f6a4ffa14ffb2786bfd7d5c4d4a84bc8",
-      "download_count": 63,
+      "download_count": 64,
       "created_at": "2026-09-03T13:59:44Z",
       "updated_at": "2026-09-03T13:59:44Z",
       "browser_download_url": "https://github.com/github/github-mcp-server/releases/download/v1.12.0/github-mcp-server_Windows_arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8192574,
       "digest": "sha256:12c55f8b295d86782bf352abbb895c0e7092adac7a74c3640a60c80d52eba22e",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-09-03T13:59:42Z",
       "updated_at": "2026-09-03T13:59:43Z",
       "browser_download_url": "https://github.com/github/github-mcp-server/releases/download/v1.12.0/github-mcp-server_Windows_i386.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 8466843,
       "digest": "sha256:bc8782deda12dc1f36a182d0205bb4f11b05aee0eec7e2c8c109bb8f622fb4b4",
-      "download_count": 2019,
+      "download_count": 2064,
       "created_at": "2026-09-03T13:59:44Z",
       "updated_at": "2026-09-03T13:59:44Z",
       "browser_download_url": "https://github.com/github/github-mcp-server/releases/download/v1.12.0/github-mcp-server_Windows_x86_64.zip"
