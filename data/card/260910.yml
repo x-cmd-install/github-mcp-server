@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.12.1"
   latestRelease: "v1.12.1"
   latestPrerelease: "v0.26.0-rc.3"
-  collectedAt: 2026-09-10T21:01:30Z
+  collectedAt: 2026-09-10T22:43:48Z
 timeline:
   created: 2025-03-04
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2025-12-17
 popularity:
-  star: 32848
+  star: 32850
   watcher: 395
-  fork: 4943
+  fork: 4945
   release: 79
   contributor: 379
-  pullRequest: 1700
+  pullRequest: 1702
   issue: 1060
 language:
   Go: 3870274
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-11
     release: 5
     mergedPR: 60
-    openPR: 17
+    openPR: 19
     closedIssue: 40
     openIssue: 15
     commit: 104
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-12
     release: 9
     mergedPR: 105
-    openPR: 33
+    openPR: 35
     closedIssue: 68
     openIssue: 32
     commit: 156
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-12
     release: 11
     mergedPR: 156
-    openPR: 55
+    openPR: 57
     closedIssue: 103
     openIssue: 50
     commit: 212
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-14
     release: 24
     mergedPR: 279
-    openPR: 94
+    openPR: 96
     closedIssue: 196
     openIssue: 88
     commit: 370
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-15
     release: 57
     mergedPR: 614
-    openPR: 152
+    openPR: 154
     closedIssue: 464
     openIssue: 152
     commit: 772
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-20
     release: 79
     mergedPR: 915
-    openPR: 155
+    openPR: 157
     closedIssue: 901
     openIssue: 159
     commit: 1151
 total:
   release: 79
   mergedPR: 915
-  openPR: 155
+  openPR: 157
   closedIssue: 901
   openIssue: 159
   commit: 1151
 ---
 path: /home/runner/.x-repo/github.com/github/github-mcp-server
-collectedAt: 2026-09-10T21:01:40Z
+collectedAt: 2026-09-10T22:43:52Z
 loc:
   Go:
     code: 97426
