@@ -12,6 +12,18 @@ GitHub's official MCP Server
 x install github-mcp-server
 ```
 
+## 代码规模
+
+合计: **108,056** 行代码（覆盖前 5 种语言、共 **272** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 97,426 | 6,775 | 10,742 | 243 |
+| Json | 6,077 | 0 | 0 | 7 |
+| Tsx | 3,669 | 116 | 287 | 7 |
+| Bash | 596 | 179 | 160 | 11 |
+| TypeScript | 158 | 45 | 18 | 4 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/github/github-mcp-server>
@@ -22,6 +34,25 @@ x install github-mcp-server
 - **最新版本**: `v1.12.1` (2026-09-08)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 9 个
+
+## 流行度
+
+- **Star**: 32,848 · **Fork**: 4,943 · **开放 issue**: 1,060 · **贡献者**: 379
+
+## 累计统计
+
+- **发布数**: 79 · **已合并 PR**: 915 · **开放 PR**: 155 · **已关闭 issue**: 901 · **开放 issue**: 159 · **提交数**: 1151
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 5 | 60 | 17 | 40 | 15 | 104 |
+| last60d | 2026-07-12 | 9 | 105 | 33 | 68 | 32 | 156 |
+| 90d | 2026-06-12 | 11 | 156 | 55 | 103 | 50 | 212 |
+| last180d | 2026-03-14 | 24 | 279 | 94 | 196 | 88 | 370 |
+| 360d | 2025-09-15 | 57 | 614 | 152 | 464 | 152 | 772 |
+| last720d | 2024-09-20 | 79 | 915 | 155 | 901 | 159 | 1151 |
 
 ## Release 资产
 
@@ -37,33 +68,15 @@ x install github-mcp-server
 | [github-mcp-server_Windows_i386.zip](https://github.com/github/github-mcp-server/releases/download/v1.12.1/github-mcp-server_Windows_i386.zip) | 7.8 MiB | `native/win/x64` |
 | [github-mcp-server_Windows_x86_64.zip](https://github.com/github/github-mcp-server/releases/download/v1.12.1/github-mcp-server_Windows_x86_64.zip) | 8.1 MiB | `native/win/x64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 32,846 · **Fork**: 4,940 · **开放 issue**: 1,060 · **贡献者**: 379
+在 [repology.org](https://repology.org/project/github-mcp-server) 上共有 **12** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 79 · **已合并 PR**: 915 · **开放 PR**: 155 · **已关闭 issue**: 901 · **开放 issue**: 159 · **提交数**: 1151
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 60 | 17 | 40 | 15 | 104 |
-| 90d | 2026-06-12 | 11 | 156 | 55 | 103 | 50 | 212 |
-| 360d | 2025-09-15 | 57 | 614 | 152 | 464 | 152 | 772 |
-
-## 代码规模
-
-合计: **108,056** 行代码（覆盖前 5 种语言、共 **272** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 97,426 | 6,775 | 10,742 | 243 |
-| Json | 6,077 | 0 | 0 | 7 |
-| Tsx | 3,669 | 116 | 287 | 7 |
-| Bash | 596 | 179 | 160 | 11 |
-| TypeScript | 158 | 45 | 18 | 4 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.12.1` | ✅ latest |
+| Nix unstable | `1.11.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.11.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -74,4 +87,4 @@ github-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:47:18Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:01:50Z._
