@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.12.1"
   latestRelease: "v1.12.1"
   latestPrerelease: "v0.26.0-rc.3"
-  collectedAt: 2026-09-10T16:47:06Z
+  collectedAt: 2026-09-10T21:01:30Z
 timeline:
   created: 2025-03-04
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2025-12-17
 popularity:
-  star: 32846
+  star: 32848
   watcher: 395
-  fork: 4940
+  fork: 4943
   release: 79
   contributor: 379
   pullRequest: 1700
@@ -88,7 +88,7 @@ total:
   commit: 1151
 ---
 path: /home/runner/.x-repo/github.com/github/github-mcp-server
-collectedAt: 2026-09-10T16:47:12Z
+collectedAt: 2026-09-10T21:01:40Z
 loc:
   Go:
     code: 97426
