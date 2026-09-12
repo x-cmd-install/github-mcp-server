@@ -1,25 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: github-mcp-server
-  visiblename: github-mcp-server
-  version: 0.3.0
-  origversion: null
-  status: outdated
-  summary: GitHub's official MCP Server
-  maintainers:
-    - pol.dellaiera@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: github-mcp-server
-  visiblename: github-mcp-server
-  version: 0.20.2
-  origversion: null
-  status: outdated
-  summary: GitHub's official MCP Server
-  maintainers:
-    - ido.samuelson@gmail.com
-  licenses:
-    - MIT
 - repo: aur
   srcname: github-mcp-server
   binname: github-mcp-server
@@ -81,6 +59,28 @@
     - MIT
   categories:
     - devel
+- repo: nix_stable_25_05
+  srcname: github-mcp-server
+  visiblename: github-mcp-server
+  version: 0.3.0
+  origversion: null
+  status: outdated
+  summary: GitHub's official MCP Server
+  maintainers:
+    - pol.dellaiera@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: github-mcp-server
+  visiblename: github-mcp-server
+  version: 0.20.2
+  origversion: null
+  status: outdated
+  summary: GitHub's official MCP Server
+  maintainers:
+    - ido.samuelson@gmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: github-mcp-server
   visiblename: github-mcp-server
@@ -126,9 +126,9 @@
 - repo: t2
   srcname: github-mcp-server
   visiblename: github-mcp-server
-  version: 1.12.0
+  version: 1.12.1
   origversion: null
-  status: outdated
+  status: newest
   summary: GitHub's official MCP Server
   maintainers:
     - rene@exactco.de
