@@ -4,7 +4,7 @@
 
 GitHub's official MCP Server
 
-![github-mcp-server](https://repo.x-cmd.io/github-mcp-server.svg)
+[![x-cmd/install — github-mcp-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/github-mcp-server.svg)](https://x-cmd.com/install/github-mcp-server)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **108,739** lines of code across **272** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,010 · **Forks**: 4,990 · **Open issues**: 1,070 · **Contributors**: 379
+- **Stars**: 33,071 · **Forks**: 5,005 · **Open issues**: 1,071 · **Contributors**: 379
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 917 · **Open PRs**: 168 · **Closed issues**: 909 · **Open issues**: 161 · **Commits**: 1153
+- **Releases**: 80 · **Merged PRs**: 917 · **Open PRs**: 170 · **Closed issues**: 908 · **Open issues**: 163 · **Commits**: 1153
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 31 | 29 | 26 | 20 | 47 |
-| last60d | 2026-07-20 | 9 | 91 | 44 | 69 | 35 | 139 |
-| 90d | 2026-06-20 | 11 | 142 | 61 | 94 | 49 | 201 |
-| last180d | 2026-03-22 | 25 | 276 | 104 | 192 | 85 | 367 |
-| 360d | 2025-09-23 | 58 | 606 | 165 | 462 | 153 | 767 |
-| last720d | 2024-09-28 | 80 | 917 | 168 | 909 | 161 | 1153 |
+| 30d | 2026-08-21 | 4 | 27 | 31 | 22 | 21 | 47 |
+| last60d | 2026-07-22 | 9 | 86 | 46 | 66 | 35 | 139 |
+| 90d | 2026-06-22 | 11 | 138 | 61 | 90 | 48 | 201 |
+| last180d | 2026-03-24 | 25 | 272 | 106 | 187 | 87 | 367 |
+| 360d | 2025-09-25 | 58 | 602 | 167 | 458 | 155 | 767 |
+| last720d | 2024-09-30 | 80 | 917 | 170 | 908 | 163 | 1153 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for github-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:16:43Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:16:45Z._

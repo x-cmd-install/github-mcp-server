@@ -4,7 +4,7 @@
 
 GitHub's official MCP Server
 
-![github-mcp-server](https://repo.x-cmd.io/github-mcp-server.svg?lang=zh)
+[![x-cmd/install — github-mcp-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/github-mcp-server.svg?lang=zh)](https://x-cmd.com/install/github-mcp-server)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install github-mcp-server
 
 ## 流行度
 
-- **Star**: 33,010 · **Fork**: 4,990 · **开放 issue**: 1,070 · **贡献者**: 379
+- **Star**: 33,071 · **Fork**: 5,005 · **开放 issue**: 1,071 · **贡献者**: 379
 
 ## 累计统计
 
-- **发布数**: 80 · **已合并 PR**: 917 · **开放 PR**: 168 · **已关闭 issue**: 909 · **开放 issue**: 161 · **提交数**: 1153
+- **发布数**: 80 · **已合并 PR**: 917 · **开放 PR**: 170 · **已关闭 issue**: 908 · **开放 issue**: 163 · **提交数**: 1153
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 31 | 29 | 26 | 20 | 47 |
-| last60d | 2026-07-20 | 9 | 91 | 44 | 69 | 35 | 139 |
-| 90d | 2026-06-20 | 11 | 142 | 61 | 94 | 49 | 201 |
-| last180d | 2026-03-22 | 25 | 276 | 104 | 192 | 85 | 367 |
-| 360d | 2025-09-23 | 58 | 606 | 165 | 462 | 153 | 767 |
-| last720d | 2024-09-28 | 80 | 917 | 168 | 909 | 161 | 1153 |
+| 30d | 2026-08-21 | 4 | 27 | 31 | 22 | 21 | 47 |
+| last60d | 2026-07-22 | 9 | 86 | 46 | 66 | 35 | 139 |
+| 90d | 2026-06-22 | 11 | 138 | 61 | 90 | 48 | 201 |
+| last180d | 2026-03-24 | 25 | 272 | 106 | 187 | 87 | 367 |
+| 360d | 2025-09-25 | 58 | 602 | 167 | 458 | 155 | 767 |
+| last720d | 2024-09-30 | 80 | 917 | 170 | 908 | 163 | 1153 |
 
 ## Release 资产
 
@@ -77,4 +77,4 @@ github-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:16:44Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:16:46Z._
