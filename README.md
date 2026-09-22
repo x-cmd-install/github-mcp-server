@@ -37,22 +37,22 @@ Total: **108,739** lines of code across **272** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,091 · **Forks**: 5,022 · **Open issues**: 1,071 · **Contributors**: 379
+- **Stars**: 33,115 · **Forks**: 5,026 · **Open issues**: 1,073 · **Contributors**: 378
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 917 · **Open PRs**: 170 · **Closed issues**: 908 · **Open issues**: 163 · **Commits**: 1153
+- **Releases**: 80 · **Merged PRs**: 917 · **Open PRs**: 173 · **Closed issues**: 908 · **Open issues**: 165 · **Commits**: 1153
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 4 | 25 | 31 | 19 | 21 | 26 |
-| last60d | 2026-07-23 | 9 | 84 | 47 | 64 | 35 | 131 |
-| 90d | 2026-06-23 | 11 | 137 | 62 | 86 | 48 | 187 |
-| last180d | 2026-03-25 | 25 | 272 | 106 | 186 | 87 | 364 |
-| 360d | 2025-09-26 | 58 | 600 | 168 | 455 | 155 | 753 |
-| last720d | 2024-10-01 | 80 | 917 | 170 | 908 | 163 | 1153 |
+| 30d | 2026-08-23 | 4 | 25 | 34 | 19 | 23 | 26 |
+| last60d | 2026-07-24 | 8 | 83 | 50 | 64 | 36 | 131 |
+| 90d | 2026-06-24 | 11 | 134 | 64 | 86 | 49 | 187 |
+| last180d | 2026-03-26 | 25 | 271 | 108 | 185 | 89 | 364 |
+| 360d | 2025-09-27 | 57 | 600 | 171 | 455 | 157 | 753 |
+| last720d | 2024-10-02 | 80 | 917 | 173 | 908 | 165 | 1153 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for github-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:18:55Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:19:52Z._
