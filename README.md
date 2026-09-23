@@ -4,7 +4,7 @@
 
 GitHub's official MCP Server
 
-[![x-cmd/install — github-mcp-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/github-mcp-server.svg)](https://x-cmd.com/install/github-mcp-server)
+[![x-cmd/install — github-mcp-server Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/github-mcp-server.svg)](https://x-cmd.com/install/github-mcp-server)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **108,739** lines of code across **272** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,115 · **Forks**: 5,026 · **Open issues**: 1,073 · **Contributors**: 378
+- **Stars**: 33,135 · **Forks**: 5,037 · **Open issues**: 1,074 · **Contributors**: 378
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 917 · **Open PRs**: 173 · **Closed issues**: 908 · **Open issues**: 165 · **Commits**: 1153
+- **Releases**: 80 · **Merged PRs**: 917 · **Open PRs**: 174 · **Closed issues**: 907 · **Open issues**: 167 · **Commits**: 1153
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 25 | 34 | 19 | 23 | 26 |
-| last60d | 2026-07-24 | 8 | 83 | 50 | 64 | 36 | 131 |
-| 90d | 2026-06-24 | 11 | 134 | 64 | 86 | 49 | 187 |
-| last180d | 2026-03-26 | 25 | 271 | 108 | 185 | 89 | 364 |
-| 360d | 2025-09-27 | 57 | 600 | 171 | 455 | 157 | 753 |
-| last720d | 2024-10-02 | 80 | 917 | 173 | 908 | 165 | 1153 |
+| 30d | 2026-08-24 | 4 | 18 | 34 | 17 | 25 | 26 |
+| last60d | 2026-07-25 | 8 | 83 | 51 | 63 | 38 | 131 |
+| 90d | 2026-06-25 | 11 | 130 | 64 | 85 | 51 | 187 |
+| last180d | 2026-03-27 | 25 | 271 | 109 | 184 | 91 | 364 |
+| 360d | 2025-09-28 | 57 | 600 | 172 | 454 | 159 | 753 |
+| last720d | 2024-10-03 | 80 | 917 | 174 | 907 | 167 | 1153 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for github-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:19:52Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:13:55Z._
