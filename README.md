@@ -14,11 +14,11 @@ x install github-mcp-server
 
 ## Code insight
 
-Total: **108,739** lines of code across **272** files in the top 5 languages.
+Total: **109,228** lines of code across **275** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 98,109 | 6,779 | 10,780 | 243 |
+| Go | 98,598 | 6,780 | 10,796 | 246 |
 | Json | 6,077 | 0 | 0 | 7 |
 | Tsx | 3,669 | 116 | 287 | 7 |
 | Bash | 596 | 179 | 160 | 11 |
@@ -32,27 +32,27 @@ Total: **108,739** lines of code across **272** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.12.2` (2026-09-16)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-30
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 33,290 · **Forks**: 5,068 · **Open issues**: 1,077 · **Contributors**: 380
+- **Stars**: 33,309 · **Forks**: 5,065 · **Open issues**: 1,077 · **Contributors**: 381
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 917 · **Open PRs**: 183 · **Closed issues**: 910 · **Open issues**: 167 · **Commits**: 1153
+- **Releases**: 80 · **Merged PRs**: 918 · **Open PRs**: 182 · **Closed issues**: 910 · **Open issues**: 167 · **Commits**: 1154
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 10 | 42 | 10 | 24 | 5 |
-| last60d | 2026-08-01 | 7 | 73 | 55 | 61 | 32 | 124 |
-| 90d | 2026-07-02 | 10 | 117 | 68 | 82 | 48 | 184 |
-| last180d | 2026-04-03 | 25 | 268 | 116 | 178 | 92 | 361 |
-| 360d | 2025-10-05 | 55 | 590 | 181 | 445 | 156 | 746 |
-| last720d | 2024-10-10 | 80 | 917 | 183 | 910 | 167 | 1153 |
+| 30d | 2026-09-01 | 3 | 10 | 39 | 10 | 23 | 6 |
+| last60d | 2026-08-02 | 7 | 74 | 54 | 61 | 31 | 125 |
+| 90d | 2026-07-03 | 10 | 117 | 66 | 82 | 48 | 185 |
+| last180d | 2026-04-04 | 25 | 269 | 114 | 176 | 92 | 362 |
+| 360d | 2025-10-06 | 55 | 589 | 180 | 443 | 156 | 747 |
+| last720d | 2024-10-11 | 80 | 918 | 182 | 910 | 167 | 1154 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for github-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:49:34Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:11:41Z._
