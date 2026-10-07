@@ -14,15 +14,15 @@ x install github-mcp-server
 
 ## Code insight
 
-Total: **108,514** lines of code across **280** files in the top 5 languages.
+Total: **129,064** lines of code across **329** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 99,907 | 6,769 | 10,874 | 251 |
-| Tsx | 4,117 | 114 | 287 | 7 |
-| Json | 3,479 | 0 | 0 | 7 |
-| Bash | 596 | 179 | 160 | 11 |
-| TypeScript | 158 | 45 | 18 | 4 |
+| Go | 120,352 | 7,030 | 12,044 | 298 |
+| Tsx | 4,119 | 113 | 287 | 7 |
+| Json | 3,481 | 0 | 0 | 7 |
+| Bash | 598 | 179 | 161 | 11 |
+| TypeScript | 257 | 45 | 27 | 6 |
 
 ## Source
 
@@ -31,42 +31,42 @@ Total: **108,514** lines of code across **280** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.14.0` (2026-10-02)
-- **Last commit**: 2026-10-03
+- **Latest**: `v2.0.0` (2026-10-06)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 33,396 · **Forks**: 5,090 · **Open issues**: 1,076 · **Contributors**: 379
+- **Stars**: 33,416 · **Forks**: 5,100 · **Open issues**: 1,085 · **Contributors**: 380
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 930 · **Open PRs**: 184 · **Closed issues**: 914 · **Open issues**: 162 · **Commits**: 1166
+- **Releases**: 83 · **Merged PRs**: 948 · **Open PRs**: 167 · **Closed issues**: 914 · **Open issues**: 171 · **Commits**: 1184
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 4 | 17 | 50 | 14 | 24 | 15 |
-| last60d | 2026-08-07 | 9 | 77 | 65 | 54 | 35 | 124 |
-| 90d | 2026-07-08 | 12 | 121 | 75 | 80 | 51 | 179 |
-| last180d | 2026-04-09 | 27 | 280 | 127 | 176 | 95 | 371 |
-| 360d | 2025-10-11 | 56 | 593 | 183 | 442 | 153 | 745 |
-| last720d | 2024-10-16 | 82 | 930 | 184 | 914 | 162 | 1166 |
+| 30d | 2026-09-07 | 5 | 34 | 31 | 14 | 30 | 33 |
+| last60d | 2026-08-08 | 10 | 95 | 44 | 55 | 42 | 142 |
+| 90d | 2026-07-09 | 13 | 139 | 58 | 80 | 60 | 197 |
+| last180d | 2026-04-10 | 28 | 297 | 110 | 175 | 104 | 389 |
+| 360d | 2025-10-12 | 57 | 611 | 165 | 442 | 161 | 763 |
+| last720d | 2024-10-17 | 83 | 948 | 167 | 914 | 171 | 1184 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [github-mcp-server_1.14.0_checksums.txt](https://github.com/github/github-mcp-server/releases/download/v1.14.0/github-mcp-server_1.14.0_checksums.txt) | 824 B | `other` |
-| [github-mcp-server_Darwin_arm64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v1.14.0/github-mcp-server_Darwin_arm64.tar.gz) | 7.9 MiB | `native/darwin/arm64` |
-| [github-mcp-server_Darwin_x86_64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v1.14.0/github-mcp-server_Darwin_x86_64.tar.gz) | 8.4 MiB | `native/darwin/x64` |
-| [github-mcp-server_Linux_arm64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v1.14.0/github-mcp-server_Linux_arm64.tar.gz) | 7.5 MiB | `native/linux/arm64` |
-| [github-mcp-server_Linux_i386.tar.gz](https://github.com/github/github-mcp-server/releases/download/v1.14.0/github-mcp-server_Linux_i386.tar.gz) | 7.8 MiB | `native/linux/x86` |
-| [github-mcp-server_Linux_x86_64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v1.14.0/github-mcp-server_Linux_x86_64.tar.gz) | 8.2 MiB | `native/linux/x64` |
-| [github-mcp-server_Windows_arm64.zip](https://github.com/github/github-mcp-server/releases/download/v1.14.0/github-mcp-server_Windows_arm64.zip) | 7.6 MiB | `native/win/arm64` |
-| [github-mcp-server_Windows_i386.zip](https://github.com/github/github-mcp-server/releases/download/v1.14.0/github-mcp-server_Windows_i386.zip) | 8.2 MiB | `native/win/x64` |
-| [github-mcp-server_Windows_x86_64.zip](https://github.com/github/github-mcp-server/releases/download/v1.14.0/github-mcp-server_Windows_x86_64.zip) | 8.4 MiB | `native/win/x64` |
+| [github-mcp-server_2.0.0_checksums.txt](https://github.com/github/github-mcp-server/releases/download/v2.0.0/github-mcp-server_2.0.0_checksums.txt) | 824 B | `other` |
+| [github-mcp-server_Darwin_arm64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.0/github-mcp-server_Darwin_arm64.tar.gz) | 8.4 MiB | `native/darwin/arm64` |
+| [github-mcp-server_Darwin_x86_64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.0/github-mcp-server_Darwin_x86_64.tar.gz) | 9.0 MiB | `native/darwin/x64` |
+| [github-mcp-server_Linux_arm64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.0/github-mcp-server_Linux_arm64.tar.gz) | 8.0 MiB | `native/linux/arm64` |
+| [github-mcp-server_Linux_i386.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.0/github-mcp-server_Linux_i386.tar.gz) | 8.3 MiB | `native/linux/x86` |
+| [github-mcp-server_Linux_x86_64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.0/github-mcp-server_Linux_x86_64.tar.gz) | 8.8 MiB | `native/linux/x64` |
+| [github-mcp-server_Windows_arm64.zip](https://github.com/github/github-mcp-server/releases/download/v2.0.0/github-mcp-server_Windows_arm64.zip) | 8.1 MiB | `native/win/arm64` |
+| [github-mcp-server_Windows_i386.zip](https://github.com/github/github-mcp-server/releases/download/v2.0.0/github-mcp-server_Windows_i386.zip) | 8.7 MiB | `native/win/x64` |
+| [github-mcp-server_Windows_x86_64.zip](https://github.com/github/github-mcp-server/releases/download/v2.0.0/github-mcp-server_Windows_x86_64.zip) | 9.0 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -77,4 +77,4 @@ Install metadata for github-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:37:23Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:20:25Z._
