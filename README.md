@@ -32,27 +32,27 @@ Total: **129,519** lines of code across **330** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.0.2` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-12
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 33,534 · **Forks**: 5,134 · **Open issues**: 1,105 · **Contributors**: 380
+- **Stars**: 33,573 · **Forks**: 5,139 · **Open issues**: 1,108 · **Contributors**: 380
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 950 · **Open PRs**: 171 · **Closed issues**: 922 · **Open issues**: 183 · **Commits**: 1186
+- **Releases**: 85 · **Merged PRs**: 952 · **Open PRs**: 171 · **Closed issues**: 924 · **Open issues**: 184 · **Commits**: 1187
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 6 | 34 | 32 | 16 | 41 | 33 |
-| last60d | 2026-08-13 | 11 | 92 | 45 | 57 | 56 | 116 |
-| 90d | 2026-07-14 | 15 | 135 | 61 | 85 | 72 | 180 |
-| last180d | 2026-04-15 | 28 | 293 | 114 | 175 | 116 | 375 |
-| 360d | 2025-10-17 | 59 | 603 | 168 | 431 | 174 | 758 |
-| last720d | 2024-10-22 | 85 | 950 | 171 | 922 | 183 | 1186 |
+| 30d | 2026-09-13 | 6 | 35 | 32 | 17 | 42 | 34 |
+| last60d | 2026-08-14 | 11 | 89 | 44 | 57 | 57 | 117 |
+| 90d | 2026-07-15 | 15 | 136 | 61 | 87 | 73 | 181 |
+| last180d | 2026-04-16 | 28 | 293 | 113 | 176 | 117 | 376 |
+| 360d | 2025-10-18 | 59 | 605 | 168 | 432 | 174 | 759 |
+| last720d | 2024-10-23 | 85 | 952 | 171 | 924 | 184 | 1187 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for github-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:21:40Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:23:24Z._
