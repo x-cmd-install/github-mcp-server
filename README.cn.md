@@ -32,27 +32,27 @@ x install github-mcp-server
 ## 发布
 
 - **最新版本**: `v2.0.3` (2026-10-21)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 33,837 · **Fork**: 5,211 · **开放 issue**: 1,127 · **贡献者**: 382
+- **Star**: 33,876 · **Fork**: 5,219 · **开放 issue**: 1,132 · **贡献者**: 384
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 957 · **开放 PR**: 187 · **已关闭 issue**: 932 · **开放 issue**: 195 · **提交数**: 1192
+- **发布数**: 86 · **已合并 PR**: 958 · **开放 PR**: 190 · **已关闭 issue**: 932 · **开放 issue**: 200 · **提交数**: 1193
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 6 | 37 | 38 | 21 | 43 | 39 |
-| last60d | 2026-08-23 | 10 | 65 | 60 | 42 | 66 | 67 |
-| 90d | 2026-07-24 | 14 | 123 | 75 | 86 | 80 | 172 |
-| last180d | 2026-04-25 | 25 | 288 | 127 | 163 | 126 | 372 |
-| 360d | 2025-10-27 | 58 | 595 | 183 | 413 | 184 | 753 |
-| last720d | 2024-11-01 | 86 | 957 | 186 | 932 | 195 | 1192 |
+| 30d | 2026-09-23 | 6 | 38 | 41 | 21 | 48 | 40 |
+| last60d | 2026-08-24 | 10 | 59 | 62 | 41 | 71 | 68 |
+| 90d | 2026-07-25 | 14 | 124 | 78 | 86 | 85 | 173 |
+| last180d | 2026-04-26 | 25 | 289 | 130 | 162 | 130 | 373 |
+| 360d | 2025-10-28 | 56 | 596 | 186 | 412 | 188 | 754 |
+| last720d | 2024-11-02 | 86 | 958 | 189 | 932 | 200 | 1193 |
 
 ## Release 资产
 
@@ -68,6 +68,16 @@ x install github-mcp-server
 | [github-mcp-server_Windows_i386.zip](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Windows_i386.zip) | 8.9 MiB | `native/win/x64` |
 | [github-mcp-server_Windows_x86_64.zip](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Windows_x86_64.zip) | 9.1 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/github-mcp-server) 上共有 **15** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `2.0.3` | ✅ latest |
+| Nix unstable | `1.14.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.0.2` | ⚠️ outdated |
+
 ## 改进这些数据
 
 github-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `github-mcp-server` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -77,4 +87,4 @@ github-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:00:18Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:01:56Z._
