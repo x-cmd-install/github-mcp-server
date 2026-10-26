@@ -37,22 +37,22 @@ Total: **129,771** lines of code across **330** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,932 · **Forks**: 5,225 · **Open issues**: 1,139 · **Contributors**: 385
+- **Stars**: 33,958 · **Forks**: 5,228 · **Open issues**: 1,140 · **Contributors**: 385
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 958 · **Open PRs**: 195 · **Closed issues**: 934 · **Open issues**: 205 · **Commits**: 1193
+- **Releases**: 86 · **Merged PRs**: 958 · **Open PRs**: 199 · **Closed issues**: 934 · **Open issues**: 206 · **Commits**: 1193
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 6 | 38 | 41 | 23 | 53 | 40 |
-| last60d | 2026-08-26 | 9 | 58 | 67 | 40 | 75 | 68 |
-| 90d | 2026-07-27 | 14 | 122 | 80 | 88 | 88 | 173 |
-| last180d | 2026-04-28 | 25 | 284 | 135 | 159 | 135 | 373 |
-| 360d | 2025-10-30 | 56 | 595 | 189 | 411 | 191 | 754 |
-| last720d | 2024-11-04 | 86 | 958 | 194 | 934 | 205 | 1193 |
+| 30d | 2026-09-26 | 6 | 38 | 45 | 23 | 54 | 36 |
+| last60d | 2026-08-27 | 9 | 55 | 71 | 38 | 76 | 58 |
+| 90d | 2026-07-28 | 14 | 120 | 84 | 87 | 87 | 166 |
+| last180d | 2026-04-29 | 25 | 284 | 138 | 159 | 136 | 372 |
+| 360d | 2025-10-31 | 56 | 594 | 192 | 411 | 191 | 749 |
+| last720d | 2024-11-05 | 86 | 958 | 198 | 934 | 206 | 1193 |
 
 ## Release assets
 
@@ -70,7 +70,7 @@ Total: **129,771** lines of code across **330** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/github-mcp-server). **5** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/github-mcp-server). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for github-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:56:36Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:58:24Z._
