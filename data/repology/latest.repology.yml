@@ -56,9 +56,9 @@
 - repo: chocolatey
   binname: github-mcp-server
   visiblename: GitHub MCP Server
-  version: 2.0.2
+  version: 2.0.3
   origversion: null
-  status: outdated
+  status: newest
   summary: GitHub's official MCP Server
 - repo: homebrew
   srcname: github-mcp-server
