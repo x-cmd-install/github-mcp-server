@@ -20,7 +20,7 @@
   visiblename: github-mcp-server
   version: 2.0.3
   origversion: 2.0.3-alt1
-  status: newest
+  status: outdated
   summary: GitHub's official MCP server
   maintainers:
     - dutyrok@altlinux.org
@@ -34,7 +34,7 @@
   visiblename: github-mcp-server
   version: 2.0.3
   origversion: 2.0.3-1
-  status: newest
+  status: outdated
   summary: GitHub's official MCP server which connects AI tools directly to GitHub's platform
   maintainers:
     - vitaliikuzhdin@aur
@@ -44,8 +44,8 @@
   srcname: github-mcp-server-bin
   binname: github-mcp-server-bin
   visiblename: github-mcp-server-bin
-  version: 2.0.3
-  origversion: 2.0.3-1
+  version: 2.1.0
+  origversion: 2.1.0-1
   status: newest
   summary: GitHub's official MCP server which connects AI tools directly to GitHub's platform
   maintainers:
@@ -58,12 +58,12 @@
   visiblename: GitHub MCP Server
   version: 2.0.3
   origversion: null
-  status: newest
+  status: outdated
   summary: GitHub's official MCP Server
 - repo: homebrew
   srcname: github-mcp-server
   visiblename: github-mcp-server
-  version: 2.0.3
+  version: 2.1.0
   origversion: null
   status: newest
   summary: GitHub Model Context Protocol server for AI tools
@@ -147,7 +147,7 @@
   visiblename: github-mcp-server
   version: 2.0.3
   origversion: 2.0.3-1.1
-  status: newest
+  status: outdated
   summary: Model Context Protocol server for GitHub
   licenses:
     - MIT
@@ -157,7 +157,7 @@
   subrepo: main
   binname: github-mcp-server
   visiblename: github-mcp-server
-  version: 2.0.3
+  version: 2.1.0
   origversion: null
   status: newest
   licenses:
@@ -167,7 +167,7 @@
   visiblename: github-mcp-server
   version: 2.0.3
   origversion: null
-  status: newest
+  status: outdated
   summary: GitHub's official MCP Server
   maintainers:
     - rene@exactco.de
