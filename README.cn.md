@@ -14,11 +14,11 @@ x install github-mcp-server
 
 ## 代码洞察
 
-合计: **130,490** 行代码（覆盖前 5 种语言、共 **333** 个文件）。
+合计: **130,605** 行代码（覆盖前 5 种语言、共 **333** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 121,854 | 7,050 | 12,102 | 302 |
+| Go | 121,969 | 7,049 | 12,111 | 302 |
 | Tsx | 4,119 | 113 | 287 | 7 |
 | Json | 3,405 | 0 | 0 | 7 |
 | Bash | 598 | 179 | 161 | 11 |
@@ -31,52 +31,52 @@ x install github-mcp-server
 
 ## 发布
 
-- **最新版本**: `v2.0.3` (2026-10-21)
-- **最近提交**: 2026-11-02
+- **最新版本**: `v2.1.0` (2026-11-03)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 34,178 · **Fork**: 5,278 · **开放 issue**: 1,151 · **贡献者**: 386
+- **Star**: 34,208 · **Fork**: 5,282 · **开放 issue**: 1,159 · **贡献者**: 386
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 966 · **开放 PR**: 192 · **已关闭 issue**: 945 · **开放 issue**: 206 · **提交数**: 1201
+- **发布数**: 87 · **已合并 PR**: 968 · **开放 PR**: 192 · **已关闭 issue**: 946 · **开放 issue**: 213 · **提交数**: 1203
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 19 | 43 | 26 | 54 | 15 |
-| last60d | 2026-09-04 | 8 | 52 | 70 | 41 | 76 | 50 |
-| 90d | 2026-08-05 | 13 | 113 | 84 | 82 | 85 | 162 |
-| last180d | 2026-05-07 | 25 | 288 | 130 | 162 | 132 | 374 |
-| 360d | 2025-11-08 | 56 | 594 | 186 | 414 | 192 | 744 |
-| last720d | 2024-11-13 | 86 | 966 | 192 | 945 | 206 | 1201 |
+| 30d | 2026-10-05 | 5 | 20 | 43 | 24 | 60 | 17 |
+| last60d | 2026-09-05 | 9 | 54 | 70 | 42 | 83 | 52 |
+| 90d | 2026-08-06 | 14 | 115 | 84 | 82 | 91 | 164 |
+| last180d | 2026-05-08 | 26 | 288 | 129 | 163 | 139 | 376 |
+| 360d | 2025-11-09 | 57 | 596 | 186 | 414 | 199 | 746 |
+| last720d | 2024-11-14 | 87 | 968 | 192 | 946 | 213 | 1203 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [github-mcp-server_2.0.3_checksums.txt](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_2.0.3_checksums.txt) | 824 B | `other` |
-| [github-mcp-server_Darwin_arm64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Darwin_arm64.tar.gz) | 8.6 MiB | `native/darwin/arm64` |
-| [github-mcp-server_Darwin_x86_64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Darwin_x86_64.tar.gz) | 9.1 MiB | `native/darwin/x64` |
-| [github-mcp-server_Linux_arm64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Linux_arm64.tar.gz) | 8.1 MiB | `native/linux/arm64` |
-| [github-mcp-server_Linux_i386.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Linux_i386.tar.gz) | 8.5 MiB | `native/linux/x86` |
-| [github-mcp-server_Linux_x86_64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Linux_x86_64.tar.gz) | 8.9 MiB | `native/linux/x64` |
-| [github-mcp-server_Windows_arm64.zip](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Windows_arm64.zip) | 8.2 MiB | `native/win/arm64` |
-| [github-mcp-server_Windows_i386.zip](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Windows_i386.zip) | 8.9 MiB | `native/win/x64` |
-| [github-mcp-server_Windows_x86_64.zip](https://github.com/github/github-mcp-server/releases/download/v2.0.3/github-mcp-server_Windows_x86_64.zip) | 9.1 MiB | `native/win/x64` |
+| [github-mcp-server_2.1.0_checksums.txt](https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_2.1.0_checksums.txt) | 824 B | `other` |
+| [github-mcp-server_Darwin_arm64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Darwin_arm64.tar.gz) | 8.6 MiB | `native/darwin/arm64` |
+| [github-mcp-server_Darwin_x86_64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Darwin_x86_64.tar.gz) | 9.2 MiB | `native/darwin/x64` |
+| [github-mcp-server_Linux_arm64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Linux_arm64.tar.gz) | 8.2 MiB | `native/linux/arm64` |
+| [github-mcp-server_Linux_i386.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Linux_i386.tar.gz) | 8.5 MiB | `native/linux/x86` |
+| [github-mcp-server_Linux_x86_64.tar.gz](https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Linux_x86_64.tar.gz) | 8.9 MiB | `native/linux/x64` |
+| [github-mcp-server_Windows_arm64.zip](https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Windows_arm64.zip) | 8.3 MiB | `native/win/arm64` |
+| [github-mcp-server_Windows_i386.zip](https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Windows_i386.zip) | 8.9 MiB | `native/win/x64` |
+| [github-mcp-server_Windows_x86_64.zip](https://github.com/github/github-mcp-server/releases/download/v2.1.0/github-mcp-server_Windows_x86_64.zip) | 9.2 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/github-mcp-server) 上共有 **15** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/github-mcp-server) 上共有 **15** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `2.0.3` | ✅ latest |
+| Homebrew | `2.1.0` | ✅ latest |
 | Nix unstable | `1.14.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.0.3` | ✅ latest |
+| openSUSE Tumbleweed | `2.0.3` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ github-mcp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:08:22Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:39:33Z._
