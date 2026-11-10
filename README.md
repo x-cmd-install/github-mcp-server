@@ -14,11 +14,11 @@ x install github-mcp-server
 
 ## Code insight
 
-Total: **130,704** lines of code across **333** files in the top 5 languages.
+Total: **130,730** lines of code across **333** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 122,068 | 7,049 | 12,115 | 302 |
+| Go | 122,094 | 7,049 | 12,119 | 302 |
 | Tsx | 4,119 | 113 | 287 | 7 |
 | Json | 3,405 | 0 | 0 | 7 |
 | Bash | 598 | 179 | 161 | 11 |
@@ -32,27 +32,27 @@ Total: **130,704** lines of code across **333** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.1.0` (2026-11-03)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-09
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 34,339 · **Forks**: 5,310 · **Open issues**: 1,185 · **Contributors**: 388
+- **Stars**: 34,358 · **Forks**: 5,322 · **Open issues**: 1,188 · **Contributors**: 388
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 969 · **Open PRs**: 203 · **Closed issues**: 956 · **Open issues**: 229 · **Commits**: 1204
+- **Releases**: 87 · **Merged PRs**: 970 · **Open PRs**: 214 · **Closed issues**: 960 · **Open issues**: 228 · **Commits**: 1205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 2 | 13 | 56 | 19 | 62 | 13 |
-| last60d | 2026-09-10 | 8 | 52 | 80 | 49 | 91 | 52 |
-| 90d | 2026-08-11 | 13 | 114 | 91 | 89 | 105 | 151 |
-| last180d | 2026-05-13 | 25 | 276 | 142 | 171 | 154 | 351 |
-| 360d | 2025-11-14 | 56 | 581 | 200 | 416 | 210 | 727 |
-| last720d | 2024-11-19 | 87 | 969 | 203 | 956 | 229 | 1204 |
+| 30d | 2026-10-11 | 2 | 14 | 68 | 22 | 60 | 14 |
+| last60d | 2026-09-11 | 8 | 53 | 92 | 50 | 90 | 53 |
+| 90d | 2026-08-12 | 13 | 113 | 103 | 93 | 104 | 152 |
+| last180d | 2026-05-14 | 25 | 274 | 154 | 175 | 153 | 352 |
+| 360d | 2025-11-15 | 56 | 582 | 212 | 420 | 209 | 728 |
+| last720d | 2024-11-20 | 87 | 970 | 214 | 960 | 228 | 1205 |
 
 ## Release assets
 
@@ -70,13 +70,13 @@ Total: **130,704** lines of code across **333** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/github-mcp-server). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/github-mcp-server). **7** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `2.1.0` | ✅ latest |
 | Nix unstable | `1.14.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.0.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.1.0` | ✅ latest |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for github-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:49:17Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:42:55Z._
