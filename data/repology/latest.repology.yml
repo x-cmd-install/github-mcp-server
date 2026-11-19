@@ -18,9 +18,9 @@
   binnames:
     - github-mcp-server
   visiblename: github-mcp-server
-  version: 2.1.0
-  origversion: 2.1.0-alt1
-  status: outdated
+  version: 2.2.0
+  origversion: 2.2.0-alt1
+  status: newest
   summary: GitHub's official MCP server
   maintainers:
     - dutyrok@altlinux.org
@@ -44,9 +44,9 @@
   srcname: github-mcp-server-bin
   binname: github-mcp-server-bin
   visiblename: github-mcp-server-bin
-  version: 2.1.0
-  origversion: 2.1.0-1
-  status: outdated
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: newest
   summary: GitHub's official MCP server which connects AI tools directly to GitHub's platform
   maintainers:
     - vitaliikuzhdin@aur
@@ -165,9 +165,9 @@
 - repo: t2
   srcname: github-mcp-server
   visiblename: github-mcp-server
-  version: 2.1.0
+  version: 2.2.0
   origversion: null
-  status: outdated
+  status: newest
   summary: GitHub's official MCP Server
   maintainers:
     - rene@exactco.de
