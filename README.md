@@ -37,22 +37,22 @@ Total: **140,956** lines of code across **372** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 34,769 · **Forks**: 5,427 · **Open issues**: 1,221 · **Contributors**: 395
+- **Stars**: 34,795 · **Forks**: 5,428 · **Open issues**: 1,226 · **Contributors**: 394
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 1000 · **Open PRs**: 229 · **Closed issues**: 978 · **Open issues**: 243 · **Commits**: 1235
+- **Releases**: 89 · **Merged PRs**: 1000 · **Open PRs**: 238 · **Closed issues**: 978 · **Open issues**: 248 · **Commits**: 1235
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 3 | 29 | 67 | 23 | 58 | 35 |
-| last60d | 2026-09-27 | 9 | 79 | 92 | 60 | 101 | 82 |
-| 90d | 2026-08-28 | 12 | 95 | 115 | 77 | 122 | 108 |
-| last180d | 2026-05-30 | 23 | 257 | 166 | 180 | 165 | 312 |
-| 360d | 2025-12-01 | 54 | 569 | 224 | 413 | 221 | 745 |
-| last720d | 2024-12-06 | 89 | 999 | 229 | 978 | 243 | 1235 |
+| 30d | 2026-10-28 | 3 | 29 | 77 | 23 | 62 | 35 |
+| last60d | 2026-09-28 | 9 | 79 | 102 | 60 | 105 | 82 |
+| 90d | 2026-08-29 | 12 | 94 | 125 | 75 | 127 | 108 |
+| last180d | 2026-05-31 | 23 | 257 | 175 | 179 | 170 | 312 |
+| 360d | 2025-12-02 | 54 | 569 | 232 | 411 | 226 | 745 |
+| last720d | 2024-12-07 | 89 | 999 | 238 | 978 | 248 | 1235 |
 
 ## Release assets
 
@@ -68,6 +68,16 @@ Total: **140,956** lines of code across **372** files in the top 5 languages.
 | [github-mcp-server_Windows_i386.zip](https://github.com/github/github-mcp-server/releases/download/v2.3.0/github-mcp-server_Windows_i386.zip) | 9.1 MiB | `native/win/x64` |
 | [github-mcp-server_Windows_x86_64.zip](https://github.com/github/github-mcp-server/releases/download/v2.3.0/github-mcp-server_Windows_x86_64.zip) | 9.4 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **15** distros on [repology.org](https://repology.org/project/github-mcp-server). **4** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.3.0` | ✅ latest |
+| Nix unstable | `1.14.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.2.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for github-mcp-server lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `github-mcp-server` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +87,4 @@ Install metadata for github-mcp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:46:13Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:47:54Z._
